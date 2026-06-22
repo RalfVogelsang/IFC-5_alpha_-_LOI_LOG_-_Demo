@@ -1,0 +1,61 @@
+{
+  "header": {
+    "id": "05_Hallo_Wall_-_DIN_EN_ISO_7817-1_-_LOI_300.ifcx",
+    "ifcxVersion": "ifcx_alpha",
+    "dataVersion": "0.1.0",
+    "author": "Dipl.-Ing. Ralf Vogelsang",
+    "timestamp": "2026-06-22"
+  },
+  "imports": [],
+  "schemas": {
+    "bsi::ifc::prop::ThermalTransmittance": {
+      "value": {
+        "dataType": "String",
+        "quantityKind": "W/m²K"
+      }
+    }
+  },
+  "data": [
+    {
+      "path": "fb06795d-b3cc-4861-8b63-0f7f8b7f3f40",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcMaterialLayerSet",
+          "uri": "https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcMaterialLayerSet.htm"
+        }
+      }
+    },
+    {
+      "path": "74e742f5-f297-4d62-a4ef-8b19dc214919",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcMaterialLayer",
+          "uri": "https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcMaterialLayer.htm"
+        },
+        "bsi::ifc::prop::Width": 0.24
+      }
+    },
+    {
+      "path": "8dc8686c-653f-42c4-a6ff-908fc978a0f6",
+      "children": {
+        "XPS_12": "b626f1a5-cbcc-4533-bb4c-3731fc951142"
+      }
+    },
+    {
+      "path": "b626f1a5-cbcc-4533-bb4c-3731fc951142",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcMaterialLayer",
+          "uri": "https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcMaterialLayer.htm"
+        },
+        "bsi::ifc::prop::Category": "Insulation",
+        "bsi::ifc::material": {
+          "code": "Pr_25_71_63_29",
+          "uri": "https://identifier.buildingsmart.org/uri/nbs/uniclass2015/1/class/Pr_25_71_63_29"
+        },
+        "bsi::ifc::prop::Width": 0.12,
+        "bsi::ifc::prop::ThermalTransmittance": "0.3 W/m²K"
+      }
+    }
+  ]
+}

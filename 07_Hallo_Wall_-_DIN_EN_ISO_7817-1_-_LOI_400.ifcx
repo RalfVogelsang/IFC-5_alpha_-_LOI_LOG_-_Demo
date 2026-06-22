@@ -1,0 +1,64 @@
+{
+  "header": {
+    "id": "07_Hallo_Wall_-_DIN_EN_ISO_7817-1_-_LOI_400.ifcx",
+    "ifcxVersion": "ifcx_alpha",
+    "dataVersion": "0.1.0",
+    "author": "Dipl.-Ing. Ralf Vogelsang",
+    "timestamp": "2026-06-22"
+  },
+  "imports": [],
+  "schemas": {
+    "bsi::ifc::prop::GrossSideArea": {
+      "value": {
+        "dataType": "String"
+      }
+    },
+    "bsi::ifc::prop::ScheduleFinish": {
+      "value": {
+        "dataType": "String"
+      }
+    }
+  },
+  "data": [
+    {
+      "path": "8dc8686c-653f-42c4-a6ff-908fc978a0f6",
+      "children": {
+        "InnerFinish": "ceda9aaf-69ea-4113-b6b9-4d3174234498"
+      }
+    },
+    {
+      "path": "ceda9aaf-69ea-4113-b6b9-4d3174234498",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcMaterialLayer",
+          "uri": "https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcMaterialLayer.htm"
+        },
+        "bsi::ifc::prop::Category": "InnerFinish"
+      }
+    },
+    {
+      "path": "8dc8686c-653f-42c4-a6ff-908fc978a0f6",
+      "children": {
+        "OuterFinish": "2ddaeb5b-a8ac-4e84-9b07-1a32b505e4e4"
+      }
+    },
+    {
+      "path": "2ddaeb5b-a8ac-4e84-9b07-1a32b505e4e4",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcMaterialLayer",
+          "uri": "https://ifc43-docs.standards.buildingsmart.org/IFC/RELEASE/IFC4x3/HTML/lexical/IfcMaterialLayer.htm"
+        },
+        "bsi::ifc::prop::Category": "OuterFinish"
+      }
+    },
+    
+    {
+      "path": "fb06795d-b3cc-4861-8b63-0f7f8b7f3f40",
+      "attributes": {
+        "bsi::ifc::prop::GrossSideArea": "12 m²",
+        "bsi::ifc::prop::ScheduleFinish": "05.09.2019"
+      }
+    }
+  ]
+}

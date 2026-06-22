@@ -1,0 +1,60 @@
+{
+  "header": {
+    "id": "02_Hallo_Wall_-_DIN_EN_ISO_7817-1_-_LOG_100.ifcx",
+    "ifcxVersion": "ifcx_alpha",
+    "dataVersion": "0.1.0",
+    "author": "Dipl.-Ing. Ralf Vogelsang",
+    "timestamp": "2026-06-22"
+  },
+  "imports": [
+    {
+      "uri": "https://ifcx.dev/@openusd.org/usd@v1.ifcx"
+    }
+  ],
+  "schemas": {},
+  "data": [
+    {
+      "path": "53d02bc4-806b-4d29-892d-da6e5da47553",
+      "attributes": {
+        "usd::usdgeom::mesh": {
+          "faceVertexIndices": [
+            0,
+            1,
+            2,
+            2,
+            3,
+            0,
+            0,
+            3,
+            2,
+            2,
+            1,
+            0
+          ],
+          "points": [
+            [
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              2.5
+            ],
+            [
+              4.8,
+              0,
+              2.5
+            ],
+            [
+              4.8,
+              0,
+              0
+            ]
+          ]
+        }
+      }
+    }
+  ]
+}

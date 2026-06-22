@@ -1,0 +1,52 @@
+{
+  "header": {
+    "id": "03_Hallo_Wall_-_DIN_EN_ISO_7817-1_-_LOI_200.ifcx",
+    "ifcxVersion": "ifcx_alpha",
+    "dataVersion": "0.1.0",
+    "author": "Dipl.-Ing. Ralf Vogelsang",
+    "timestamp": "2026-06-22"
+  },
+  "imports": [],
+  "schemas": {
+    "bsi::ifc::prop::Category": {
+      "value": {
+        "dataType": "String"
+      }
+    }
+  },
+  "data": [
+    {
+      "path": "fb06795d-b3cc-4861-8b63-0f7f8b7f3f40",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcWallSOLIDWALL",
+          "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcWallSOLIDWALL"
+        },
+        "bsi::ifc::prop::TypeName": "Wall"
+      }
+    },
+    {
+      "path": "fb06795d-b3cc-4861-8b63-0f7f8b7f3f40",
+      "inherits": {
+        "MaterialLayerSet": "8dc8686c-653f-42c4-a6ff-908fc978a0f6"
+      }
+    },
+    {
+      "path": "8dc8686c-653f-42c4-a6ff-908fc978a0f6",
+      "children": {
+        "Brickwork": "74e742f5-f297-4d62-a4ef-8b19dc214919"
+      }
+    },
+    {
+      "path": "74e742f5-f297-4d62-a4ef-8b19dc214919",
+      "attributes": {
+        "bsi::ifc::prop::Category": "Brickwork",
+        "bsi::ifc::material": {
+          "code": "BRICKWORK",
+          "uri": "https://identifier.buildingsmart.org/uri/fish/midas-components/26/class/BRICKWORK"
+        },
+        "bsi::ifc::prop::Width": 0.36
+      }
+    }
+  ]
+}

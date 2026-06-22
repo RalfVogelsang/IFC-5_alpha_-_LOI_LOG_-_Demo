@@ -1,0 +1,47 @@
+{
+  "header": {
+    "id": "09_Hallo_Wall_-_DIN_EN_ISO_7817-1_-_LOI_500.ifcx",
+    "ifcxVersion": "ifcx_alpha",
+    "dataVersion": "0.1.0",
+    "author": "Dipl.-Ing. Ralf Vogelsang",
+    "timestamp": "2026-06-22"
+  },
+  "imports": [],
+  "schemas": {
+    "bsi::ifc::prop::Manufacturer": {
+      "value": {
+        "dataType": "String"
+      }
+    },
+    "bsi::ifc::prop::WarrantyEndDate": {
+      "value": {
+        "dataType": "String"
+      }
+    }
+  },
+  "data": [
+    {
+      "path": "fb06795d-b3cc-4861-8b63-0f7f8b7f3f40",
+      "attributes": {
+        "bsi::ifc::prop::Manufacturer": "Müllerbau",
+        "bsi::ifc::prop::WarrantyEndDate": "12.11.29"
+      }
+    },
+    {
+      "path": "ceda9aaf-69ea-4113-b6b9-4d3174234498",
+      "children": {
+        "Area": "07ac54d3-dee4-47f2-9b08-65c9ff3011d5"
+      }
+    },
+    {
+      "path": "07ac54d3-dee4-47f2-9b08-65c9ff3011d5",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcSurfaceFeature",
+          "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcSurfaceFeature"
+        },
+        "bsi::ifc::prop::TypeName": "Paint"
+      }
+    }
+  ]
+}

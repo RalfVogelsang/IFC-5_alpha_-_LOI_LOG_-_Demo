@@ -1,0 +1,101 @@
+{
+  "header": {
+    "id": "01_Hallo_Wall_-_DIN_EN_ISO_7817-1_-_LOI_100.ifcx",
+    "ifcxVersion": "ifcx_alpha",
+    "dataVersion": "0.1.0",
+    "author": "Dipl.-Ing. Ralf Vogelsang",
+    "timestamp": "2026-06-22"
+  },
+  "imports": [
+    {
+      "uri": "https://ifcx.dev/@standards.buildingsmart.org/ifc/core/ifc@v5a.ifcx"
+    },
+    {
+      "uri": "https://ifcx.dev/@standards.buildingsmart.org/ifc/core/prop@v5a.ifcx"
+    },
+    {
+      "uri": "https://ifcx.dev/@standards.buildingsmart.org/ifc/ifc-mat/ifc-mat@v1.0.0.ifcx"
+    }
+  ],
+  "schemas": {},
+  "data": [
+    {
+      "path": "5cd358e2-666b-40d2-9f2b-dbb72b666963",
+      "children": {
+        "My_Project": "7f153afd-34a5-4d3e-a572-097a2b8b707b"
+      }
+    },
+    {
+      "path": "7f153afd-34a5-4d3e-a572-097a2b8b707b",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcProject",
+          "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcProject"
+        }
+      }
+    },
+    {
+      "path": "7f153afd-34a5-4d3e-a572-097a2b8b707b",
+      "children": {
+        "My_Site": "f0a5606f-9350-40fe-bfb6-ea53b618e8f0"
+      }
+    },
+    {
+      "path": "f0a5606f-9350-40fe-bfb6-ea53b618e8f0",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcSite",
+          "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcSite"
+        }
+      }
+    },
+    {
+      "path": "f0a5606f-9350-40fe-bfb6-ea53b618e8f0",
+      "children": {
+        "My_Building": "d358af9a-9829-448c-b7fe-ceeb333b55f6"
+      }
+    },
+    {
+      "path": "d358af9a-9829-448c-b7fe-ceeb333b55f6",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcBuilding",
+          "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuilding"
+        }
+      }
+    },
+    {
+      "path": "d358af9a-9829-448c-b7fe-ceeb333b55f6",
+      "children": {
+        "My_Storey": "da90238f-7989-4be4-b053-4f18ef4a12f5"
+      }
+    },
+    {
+      "path": "da90238f-7989-4be4-b053-4f18ef4a12f5",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcBuildingStorey",
+          "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcBuildingStorey"
+        }
+      }
+    },
+    {
+      "path": "da90238f-7989-4be4-b053-4f18ef4a12f5",
+      "children": {
+        "Wall": "fb06795d-b3cc-4861-8b63-0f7f8b7f3f40"
+      }
+    },
+    {
+      "path": "fb06795d-b3cc-4861-8b63-0f7f8b7f3f40",
+      "attributes": {
+        "bsi::ifc::class": {
+          "code": "IfcWall",
+          "uri": "https://identifier.buildingsmart.org/uri/buildingsmart/ifc/4.3/class/IfcWall"
+        },
+        "bsi::ifc::prop::TypeName": "2D-Draft without Attributes/ Properties",
+        "bsi::ifc::prop::Length": 4.8,
+        "bsi::ifc::prop::Height": 2.5
+      }
+    }
+  ]
+}
