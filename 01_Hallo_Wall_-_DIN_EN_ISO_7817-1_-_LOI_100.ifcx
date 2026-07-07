@@ -2,9 +2,9 @@
   "header": {
     "id": "01_Hallo_Wall_-_DIN_EN_ISO_7817-1_-_LOI_100.ifcx",
     "ifcxVersion": "ifcx_alpha",
-    "dataVersion": "0.1.0",
+    "dataVersion": "0.1.1",
     "author": "Dipl.-Ing. Ralf Vogelsang",
-    "timestamp": "2026-06-22"
+    "timestamp": "2026-07-07"
   },
   "imports": [
     {
@@ -12,9 +12,6 @@
     },
     {
       "uri": "https://ifcx.dev/@standards.buildingsmart.org/ifc/core/prop@v5a.ifcx"
-    },
-    {
-      "uri": "https://ifcx.dev/@standards.buildingsmart.org/ifc/ifc-mat/ifc-mat@v1.0.0.ifcx"
     }
   ],
   "schemas": {},
