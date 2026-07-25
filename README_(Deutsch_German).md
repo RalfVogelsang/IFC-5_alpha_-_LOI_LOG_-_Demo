@@ -1,7 +1,7 @@
 <div align="right">
 
 [!["Please klick here for the respective README file in English Language"](https://img.shields.io/badge/Please_klick_here_for_the_respective_README_file-in_English_language-red.svg "Please klick here for the respective README file in English Language")](README.md)
-<a href="README.md"><img src="images\United_States_of_America_-_National_Flag.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;"></a>
+<a href="README.md"><img src="images\United_States_of_America_-_National_Flag_minified.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;"></a>
 
 </div>
 
@@ -61,8 +61,18 @@ Als quasi "Proof of Concept" habe ich das [IFC 5/ IFC X (alpha) - "Hello Wall" -
 
 <br>
 
+In **Grafik 1** ist die Betriebsphase/ das Facility Management explizit enthalten. In **Grafik 2** könnte die Spalte "LOD 500"/ "as-built" ("Gewährleistungsende = 12.11.2029") eher mit HOAI-"Leistungsphase 9" korrelieren, die nur die ersten fünf Jahre der Gewährleistung umfasst und anscheinend vom Facility Management abzugrenzen ist (siehe "[Leistungsphase 9 vs. Facility-Management: Eine faktenbasierte Abgrenzung](https://www.lcmd.io/blog/hoai-leistungsphase-9---objektbetreuung-erfolgreich-umsetzen "HOAI Leistungsphase 9 - Objektbetreuung erfolgreich umsetzen | LCM Digital GmbH")"). Insofern wäre bei Unterscheidung nach HOAI-Leistungsphasen nicht nur ggf. vorher eine "[Leistungsphase 0](https://www.akbw.de/berufspraxis/vertragsrecht-und-honorar/vertragsrecht/das-neue-architektenvertragsrecht/leistungsphase-0 "Leistungsphase 0 - Teil 2 der Serie zum Bauvertragsrecht | Architektenkammer Baden-Württemberg")"/ "[Planungsphase 0](https://www.viega.de/de/blog/Das-Bauen-von-morgen-TGA-wird-wichtigster-Strukturgeber.html "Das Bauen von morgen: TGA wird wichtigster Strukturgeber | Viega")" zu ergänzen , sondern gemäß Handbuch "[gut gemacht! Handbuch zur Bedeutung der Phase Null](https://www.bundesstiftung-baukultur.de/fileadmin/files/content/gut_gemacht_WEB_2.pdf "gut gemacht! Handbuch zur Bedeutung der Phase Null | Bundesstiftung Baukultur")" der Bundesstiftung Baukultur auch eine "Phase 10 - Betrieb und Potentiale"/ Facility Management (siehe **Grafik 3**).
 
-In **Grafik 1** ist die Betriebsphase/ das Facility Management explizit enthalten. In **Grafik 2** könnte die Spalte "LOD 500"/ "as-built" ("Gewährleistungsende = 12.11.2029") eher mit HOAI-"Leistungsphase 9" korrelieren, die nur die ersten fünf Jahre der Gewährleistung umfasst und anscheinend vom Facility Management abzugrenzen ist (siehe "[Leistungsphase 9 vs. Facility-Management: Eine faktenbasierte Abgrenzung](https://www.lcmd.io/blog/hoai-leistungsphase-9---objektbetreuung-erfolgreich-umsetzen "HOAI Leistungsphase 9 - Objektbetreuung erfolgreich umsetzen | LCM Digital GmbH")"). Insofern wäre bei Unterscheidung nach HOAI-Leistungsphasen evtl. nicht nur vorher eine "[Leistungsphase 0](https://www.akbw.de/berufspraxis/vertragsrecht-und-honorar/vertragsrecht/das-neue-architektenvertragsrecht/leistungsphase-0 "Leistungsphase 0 - Teil 2 der Serie zum Bauvertragsrecht | Architektenkammer Baden-Württemberg")"/ "[Planungsphase 0](https://www.viega.de/de/blog/Das-Bauen-von-morgen-TGA-wird-wichtigster-Strukturgeber.html "Das Bauen von morgen: TGA wird wichtigster Strukturgeber | Viega")" zu ergänzen , sondern - teils überlappend mit  HOAI-"Leistungsphase 9" - anschließend auch die Phase des Facility Managements.
+<br>
+
+!["Projektstufen Phase Null und Phase Zehn sind Basis und Potenzial eines Projekts | Bundesstiftung Baukultur"](https://www.bundesstiftung-baukultur.de/fileadmin/files/content/csm_104_6.3J_Projektstufen_Phase_Null_und_Phase_Zehn_sind_Basis_und_Potenzial_eines_Projekts_9f94954fae.jpg "Projektstufen Phase Null und Phase Zehn sind Basis und Potenzial eines Projekts | Bundesstiftung Baukultur")
+**Grafik 3**: _Projektstufen Phase Null und Phase Zehn sind Basis und Potenzial eines Projekts_
+(© 2023 [Bundesstiftung Baukultur](https://www.bundesstiftung-baukultur.de/ "Bundesstiftung Baukultur | bundesstiftung-baukultur.de"), Design: [Heimann + Schwantes](https://www.heimannundschwantes.de/ "Heimann + Schwantes | heimannundschwantes.de"); Quelle: ["gut gemacht! Handbuch zur Bedeutung der Phase Null" der Bundesstiftung Baukultur](https://www.bundesstiftung-baukultur.de/publikationen/handbuecher/handbuch-zur-bedeutung-der-phase-null-fuer-gelingende-projekte "gut gemacht! Handbuch zur Bedeutung der Phase Null | Bundesstiftung Baukultur"))
+
+<div>
+    <br>
+    <br>
+</div>
 
 Diesem - [mitunter strukturell bedingtem - Manko eines fehlenden oder zu späten Einbezugs des Facility Managements](https://www.hb.fh-muenster.de/opus4/frontdoor/index/index/docId/19958 "Assessing the Limitations of Existing Information Requirements for BIM in Facility Management | Sharina Alves, Niels Bartels") versucht derzeit ein [Konsortium zur Entwicklung](https://www.facility-management.de/artikel/din-spec-9155-5-bim-und-cafm-verbinden-4289921.html "DIN SPEC 91555: BIM und CAFM verbinden | facility-management.de") der [DIN SPEC 91555](https://de.linkedin.com/pulse/din-spec-91555-bim-vom-ende-her-denken-christof-duvenbeck-kaale "LinkedIn-Post von Herrn Dr. Christof Duvenbeck: DIN SPEC 91555 - BIM vom Ende her denken") "[Open BIM im Immobilienlebenszyklus – Anforderungen an die Datenübergabe vom Entwurf bis in den Immobilienbetrieb](https://www.din.de/de/wdc-beuth:din21:379168819 "DIN SPEC 91555 - Open BIM im Immobilienlebenszyklus – Anforderungen an die Datenübergabe vom Entwurf bis in den Immobilienbetrieb | DIN")" zu begegnen (die ursprünglich wohl mal [angedachte Veröffentlichung der Ergebnisse bis Q1/ 2026](https://de.linkedin.com/posts/christof-duvenbeck-77317b84_dinspec91555-ausf%C3%BChrungsplanung-lph5-activity-7399500894826024960-tL6m "Vorstellung der DIN SPEC 91555 auf der BIM World Munich 2025 | Dr. Christof Duvenbeck") scheint noch auszustehen).
 
@@ -78,7 +88,7 @@ Diesem - [mitunter strukturell bedingtem - Manko eines fehlenden oder zu späten
 Eigentlich sind in der **Grafik 2** die Länge und Höhe der Wand formal nicht als Eigenschaften enthalten. Da aber weder eine Darstellung als 2D-Fläche (bei LOD 100) noch eine Darstellung als 3D-Wand (ab LOD 200, geschweige denn eine - hier nur fiktive - Berechnung der Wandfläche bei LOD 400) möglich ist, habe ich diese Properties hier schon hinzugefügt.
 
 ![Grafik 3: Screenshot 1: LOI 100](images/Screenshot_1_(LOI_100).png "Grafik 3: Screenshot 1: LOI 100")  
-**Grafik 3**: _Screenshot 1: LOI 100_
+**Grafik 4**: _Screenshot 1: LOI 100_
 
 <div>
     <br>
@@ -88,7 +98,7 @@ Eigentlich sind in der **Grafik 2** die Länge und Höhe der Wand formal nicht a
 ### + "02_Hallo_Wall_-\_DIN_EN_ISO_7817-1_-_LOG_100.ifcx"
 
 ![Grafik 4: Screenshot 2: Zuzüglich LOG 100](images/Screenshot_2_(+LOG_100).png "Grafik 4: Screenshot 2: Zuzüglich LOG 100")  
-**Grafik 4**: _Screenshot 2 - Zuzüglich LOG 100_
+**Grafik 5**: _Screenshot 2 - Zuzüglich LOG 100_
 
 <div>
     <br>
@@ -98,12 +108,12 @@ Eigentlich sind in der **Grafik 2** die Länge und Höhe der Wand formal nicht a
 ### + "03_Hallo_Wall_-\_DIN_EN_ISO_7817-1_-_LOI_200.ifcx"
 
 ![Grafik 5: Screenshot 3a: Zuzüglich LOI 200](images/Screenshot_3a_(+LOI_200).png "Grafik 5: Screenshot 3a: Zuzüglich LOI 200")  
-**Grafik 5**: _Screenshot 3a - Zuzüglich LOI 200_
+**Grafik 6**: _Screenshot 3a - Zuzüglich LOI 200_
 
 <br>
 
 ![Grafik 6: Screenshot 3b: Zuzüglich LOI 200](images/Screenshot_3b_(+LOI_200).png "Grafik 6: Screenshot 3b: Zuzüglich LOI 200")  
-**Grafik 6**: _Screenshot 3b - Zuzüglich LOI 200_
+**Grafik 7**: _Screenshot 3b - Zuzüglich LOI 200_
 
 <div>
     <br>
@@ -113,7 +123,7 @@ Eigentlich sind in der **Grafik 2** die Länge und Höhe der Wand formal nicht a
 ### + "04_Hallo_Wall_-\_DIN_EN_ISO_7817-1_-_LOG_200.ifcx"
 
 ![Grafik 7: Screenshot 4: Zuzüglich LOG 200](images/Screenshot_4_(+LOG_200).png "Grafik 7: Screenshot 4: Zuzüglich LOG 200")  
-**Grafik 7**: _Screenshot 4 - Zuzüglich LOG 200_
+**Grafik 8**: _Screenshot 4 - Zuzüglich LOG 200_
 
 <div>
     <br>
@@ -122,7 +132,7 @@ Eigentlich sind in der **Grafik 2** die Länge und Höhe der Wand formal nicht a
 
 ### + "05_Hallo_Wall_-\_DIN_EN_ISO_7817-1_-_LOI_300.ifcx"
 
-Da es bislang [in den offiziell für IFC 5/ IFC X (alpha) bereitgestellten Schema-Definitionen für Properties](https://github.com/buildingSMART/ifcx.dev/blob/main/%40standards.buildingsmart.org/ifc/core/prop%40v5a.ifcx "Offiziell für IFC 5/ IFC X (alpha) über ifxc.dev bereitgestellte Schema-Definitionen für Properties | buildingSMART International") (noch) keines für "ThermalTransmittance" gibt, habe ich in den Zeilen 10 bis 17 als vorläufigen Workaround (siehe **Codeblock 1**) eben eine solche hinzugefügt. (In Zeile 14 ist "quantityKind": "W/m²K" effektiv nur ein "Dummy"/ "Platzhalter", da entsprechend zur Workaround-Definition in Zeile 13 "dataType": "String" dem Property in Zeile 57 ein String zugewiesen wird, der die  Einheit bereits beinhaltet - siehe **Code-Block 2** bzw. **Grafik 9**).
+Da es bislang [in den offiziell für IFC 5/ IFC X (alpha) bereitgestellten Schema-Definitionen für Properties](https://github.com/buildingSMART/ifcx.dev/blob/main/%40standards.buildingsmart.org/ifc/core/prop%40v5a.ifcx "Offiziell für IFC 5/ IFC X (alpha) über ifxc.dev bereitgestellte Schema-Definitionen für Properties | buildingSMART International") (noch) keines für "ThermalTransmittance" gibt, habe ich in den Zeilen 10 bis 17 als vorläufigen Workaround (siehe **Codeblock 1**) eben eine solche hinzugefügt. (In Zeile 14 ist "quantityKind": "W/m²K" effektiv nur ein "Dummy"/ "Platzhalter", da entsprechend zur Workaround-Definition in Zeile 13 "dataType": "String" dem Property in Zeile 57 ein String zugewiesen wird, der die  Einheit bereits beinhaltet - siehe **Codeblock 2** bzw. **Grafik 10**).
 
 ```javascript
 10  "schemas": {
@@ -134,20 +144,20 @@ Da es bislang [in den offiziell für IFC 5/ IFC X (alpha) bereitgestellten Schem
 16    }
 17  },
 ```
-**Code-Block 1**
+**Codeblock 1**
 
 <br>
 
 ```javascript
 57        "bsi::ifc::prop::ThermalTransmittance": "0.3 W/m²K"
 ```
-**Code-Block 2**
+**Codeblock 2**
 
 <br>
 
 Das alleine wäre nicht wirklich etwas Besonderes, das habe ich an anderen Stellen für (noch) fehlende Properties auch so gehandhabt. [Hier bin ich allerdings auf einen Bug in der offiziellen Implementierung des Viewers gestoßen](https://github.com/buildingSMART/IFC5-development/pull/99 "Siehe kommentarlos ignorierten Pull-Request vom 18.12.2025 | IFC 5 (alpha) GitHub Repository von buildingSMART International"): Obwohl es in den anfangs verlinkten Schema-Definitionen mit z. B. "bsi::ifc::prop::NetArea", "bsi::ifc::prop::NetSideArea" und "bsi::ifc::prop::CrossSectionArea" durchaus Properties mit enthaltenem "quantityKind": "Area" gibt, wird dieses - im Gegensatz zu "quantityKind": "Length" und "quantityKind": "Volume" [mangels Implementierung](https://github.com/buildingSMART/IFC5-development/blob/main/src/viewer/compose-flattened.ts) nicht dargestellt. (Ebenso fehlen noch die "quantityKind"-Implementierungen für "exotischere" Properties wie z. B. eben auch "bsi::ifc::prop::ThermalTransmittance".)
 
-Nach u. a. [Implementierung meines Vorschlags](https://github.com/RalfVogelsang/IFC5-development/blob/main/src/viewer/compose-flattened.ts) hätten die korrekten Codeblocks wie folgt auszusehen:
+Nach u. a. [Implementierung meines Vorschlags](https://github.com/RalfVogelsang/IFC5-development/blob/main/src/viewer/compose-flattened.ts) (und zugehörigen Änderungen in anderen Dateien) hätten die korrekten Codeblocks wie folgt auszusehen:
 
 ```javascript
 10  "schemas": {
@@ -159,24 +169,24 @@ Nach u. a. [Implementierung meines Vorschlags](https://github.com/RalfVogelsang/
 16    }
 17  },
 ```
-**Code-Block 3** (als perspektivischer Ersatz für **Codeblock 1**)
+**Codeblock 3** (als perspektivischer Ersatz für **Codeblock 1**)
 
 <br>
 
 ```javascript
 57        "bsi::ifc::prop::ThermalTransmittance": 0.3
 ```
-**Code-Block 4** (als perspektivischer Ersatz für **Codeblock 2**)
+**Codeblock 4** (als perspektivischer Ersatz für **Codeblock 2**)
 
 <br>
 
 ![Grafik 8: Screenshot 5a: Zuzüglich LOI 300](images/Screenshot_5a_(+LOI_300).png "Grafik 8: Screenshot 5a: Zuzüglich LOI 300")  
-**Grafik 8**: _Screenshot 5a - Zuzüglich LOI 300_
+**Grafik 9**: _Screenshot 5a - Zuzüglich LOI 300_
 
 <br>
 
 ![Grafik 9: Screenshot 5b: Zuzüglich LOI 300](images/Screenshot_5b_(+LOI_300).png "Grafik 9: Screenshot 5b: Zuzüglich LOI 300")  
-**Grafik 9**: _Screenshot 5b - Zuzüglich LOI 300_
+**Grafik 10**: _Screenshot 5b - Zuzüglich LOI 300_
 
 <div>
     <br>
@@ -188,7 +198,7 @@ Nach u. a. [Implementierung meines Vorschlags](https://github.com/RalfVogelsang/
 Da mir als Monteur in der Praxis noch keine Wand aus Mauerwerk mit Türöffnung aber ohne Sturz begegnet ist, habe ich die Türöffnung in Ermangelung eben dieses Sturzes in **Grafik 2** vorerst ganz weggelassen.
 
 ![Grafik 10: Screenshot 6: Zuzüglich LOG 300](images/Screenshot_6_(+LOG_300).png "Grafik 10: Screenshot 6: Zuzüglich LOG 300")  
-**Grafik 10**: _Screenshot 6 - Zuzüglich LOG 300_
+**Grafik 11**: _Screenshot 6 - Zuzüglich LOG 300_
 
 <div>
     <br>
@@ -198,7 +208,7 @@ Da mir als Monteur in der Praxis noch keine Wand aus Mauerwerk mit Türöffnung 
 ### + "07_Hallo_Wall_-\_DIN_EN_ISO_7817-1_-_LOI_400.ifcx"
 
 ![Grafik 11: Screenshot 7: Zuzüglich LOI 400](images/Screenshot_7_(+LOI_400).png "Grafik 11: Screenshot 7: Zuzüglich LOI 400")  
-**Grafik 11**: _Screenshot 7 - Zuzüglich LOI 400_
+**Grafik 12**: _Screenshot 7 - Zuzüglich LOI 400_
 
 <div>
     <br>
@@ -208,12 +218,12 @@ Da mir als Monteur in der Praxis noch keine Wand aus Mauerwerk mit Türöffnung 
 ### + "08_Hallo_Wall_-\_DIN_EN_ISO_7817-1_-_LOG_400.ifcx"
 
 ![Grafik 12: Screenshot 8a: Zuzüglich LOG 400](images/Screenshot_8a_(+LOG_400).png "Grafik 12: Screenshot 8a: Zuzüglich LOG 400")  
-**Grafik 12**: _Screenshot 8a - Zuzüglich LOG 400_
+**Grafik 13**: _Screenshot 8a - Zuzüglich LOG 400_
 
 <br>
 
 ![Grafik 13: Screenshot 8b: Zuzüglich LOG 400](images/Screenshot_8b_(+LOG_400).png "Grafik 13: Screenshot 8b: Zuzüglich LOG 400")  
-**Grafik 13**: _Screenshot 8b - Zuzüglich LOG 400_
+**Grafik 14**: _Screenshot 8b - Zuzüglich LOG 400_
 
 <div>
     <br>
@@ -223,7 +233,7 @@ Da mir als Monteur in der Praxis noch keine Wand aus Mauerwerk mit Türöffnung 
 ### + "09_Hallo_Wall_-\_DIN_EN_ISO_7817-1_-_LOI_500.ifcx"
 
 ![Grafik 14: Screenshot 9: Zuzüglich LOI 500](images/Screenshot_9_(+LOI_500).png "Grafik 14: Screenshot 9: Zuzüglich LOI 500")  
-**Grafik 14**: _Screenshot 9 - Zuzüglich LOI 500_
+**Grafik 15**: _Screenshot 9 - Zuzüglich LOI 500_
 
 <div>
     <br>
@@ -234,7 +244,7 @@ Da mir als Monteur in der Praxis noch keine Wand aus Mauerwerk mit Türöffnung 
 (Hier nur beispielhaft und eher als "Dummy"/ "Platzhalter"-Geometrie zu verstehen)
 
 ![Grafik 15: Screenshot 10: Zuzüglich LOG 500](images/Screenshot_10_(+LOG_500).png "Grafik 15: Screenshot 10: Zuzüglich LOG 500")  
-**Grafik 15**: _Screenshot 10 - Zuzüglich LOG 500_
+**Grafik 16**: _Screenshot 10 - Zuzüglich LOG 500_
 
 <div>
     <br>
@@ -243,29 +253,31 @@ Da mir als Monteur in der Praxis noch keine Wand aus Mauerwerk mit Türöffnung 
 
 ### <u> 4)  To Do </u>
 
-[x] Proof of Concept für ein "Adaptive BIM Asset" durch 10 "Hallo Wall" - Dateien (LOI 100 - 500 + LOG 100 - 500)
+[x] Proof of Concept für ein "Adaptive BIM Asset" durch 10 separate "Hallo Wall" - Dateien (LOI 100 - 500 + LOG 100 - 500)
 
 [ ] Erleichterung der realen Implementierung per API (Work in Progress)
-
-<p style="margin-left: 16px;">
 (Falls nicht nur JSON-Schemata in *.ifcx-Dateien importiert werden können; bislang scheint der Import bei mir noch nicht zu funktionieren)
-</p>
 
-![Grafik 16: Screenshot APIs](images\Screenshot_Docs_FastAPI.png "Grafik 16: Screenshot APIs")  
-**Grafik 16**: _Screenshot "Potentielle API-Implementierung"_
+![Grafik 16: Screenshot APIs](images\Screenshot-Docs-FastAPI.png "Grafik 16: Screenshot APIs")  
+**Grafik 17**: _Screenshot "Potentielle API-Implementierung"_
 
 <br>
 
-[ ] Entwicklung "Minimal viable Product" für [konfigurierbare](https://ralf-vogelsang-engineering.de/ "Konfigurierbarkeit beispielhaft veranschaulicht an einem Küchen-Unterschrank mit Auszügen | Ralf Vogelsang") "Adaptive BIM Assets"
+[ ] Entwicklung eines "Minimal viable Product" für [konfigurierbare](https://ralf-vogelsang-engineering.de/ "Konfigurierbarkeit beispielhaft veranschaulicht an einem Küchen-Unterschrank mit Auszügen | Ralf Vogelsang") "Adaptive BIM Assets"
 
 [ ] Option zur individuellen Anpassung der Zuordnung innerhalb eines Bezugssystems:
 -  DIN EN ISO 7817-1
 
-- HOAI-Leistungsphasen - ggf. ergänzt durch/ erweitert um "Leistungsphase 0" bzw. "Planungsphase 0" (s. o. ) und Facility Management (?)
+- Ggf. HOAI-Leistungsphasen (ergänzt durch/ erweitert um "Leistungsphase 0" bzw. "Planungsphase 0" und Facility Management als "Phase 10") (?)
 
-- [BIMForum](https://bimforum.global/lod/ "BIMForum LOD Specifications | BIMForum") (?)
+- Weitere [Leistungsphasendefinitionen von Bauprojekten in anderen Ländern](https://www.magicad.com/uks-riba-plan-of-work-germanys-hoai-leistungsphasen-what-are-the-differences-and-similarities-of-construction-project-work-stages-in-different-countries/ "Der „RIBA Plan of Work“ in Großbritannien, die „HOAI Leistungsphasen“ in Deutschland. Was sind die Unterschiede und Gemeinsamkeiten der Leistungsphasen von Bauprojekten in verschiedenen Ländern? | MagiCAD Group") in Europa (?)
+
+- ([BIMForum](https://bimforum.global/lod/ "BIMForum LOD Specifications | BIMForum"): Als internationales Beispiel, das prinzipiell wohl auch möglich wäre, aber hier für Deutschland/ Europa eher nicht im Fokus steht)
 - . . . (?)
 
-[ ] Verknüpfung mit [dem Digitalen Produktpass (DPP) und der neuen Bauprodukte-Verordnung (BauPVO 2024)](https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en#dpp-timeline "")
+[ ] Verknüpfung mit dem [Digitalen Produktpass (DPP)](https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en#dpp-timeline "Digital Product Passport - Internal Market, Industry, Entrepreneurship and SMEs | European Commission") und der neuen [Bauprodukte-Verordnung (BauPVO 2024)](https://single-market-economy.ec.europa.eu/sectors/construction/construction-products-regulation-cpr_en "Construction Products Regulation (CPR) | European Commission") [siehe dazu ggf. auch die [Aufzeichnungen der Vorträge](https://www.youtube.com/watch?v=ep6QG9T4Uj8&list=PL3ltG6f5UHC6g2zJf8Y5gPzH6-lzcalA6 "View Playlist of Product Domain on YouTube | buildingSMART International") der [Product Domain](https://www.buildingsmart.org/standards/domains/product/ "Product Domain | buildingSMART International")-Fachgruppe im Rahmen der letzten buildingSMART International Summits und [BauPVO 2024 Artikel 75 (2) a)](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202403110&qid=1784998114551#art_75 " KAPITEL X - DIGITALER PRODUKTPASS / Artikel 75 - Digitales Produktpasssystem für Bauprodukte | VERORDNUNG (EU) 2024/3110") _"Das digitale Produktpasssystem für Bauprodukte muss mit dem mit der Verordnung (EU) 2024/1781 eingeführten digitalen Produktpass kompatibel und interoperabel sein und diesen zur Grundlage haben, ohne die Interoperabilität mit der Bauwerksdatenmodellierung (Building Information Modeling - BIM) zu beeinträchtigen, wobei die spezifischen Merkmale und Anforderungen im Zusammenhang mit Bauprodukten zu berücksichtigen sind"_]:
+- Perspektivisch wie bei der Initiative [Furniture-X](https://furniture-x.de "Weit mehr als eine Initiative für den digitalen Produktpass in der Möbelbranche | furniture-x.de") über die [Asset Administration Schell (AAS)](https://industrialdigitaltwin.org/ "Asset Administration Shell (AAS): Die Verwaltungsschale für den Digitalen Zwilling | Industrial Digital Twin Association (IDTA)")/ [DPP 4.0](https://industrialdigitaltwin.org/dpp4-0 "DPP4.0 – Digital Product Passport | Industrial Digital Twin Association (IDTA)") (Siehe auch die [Kooperationsvereinbarung zwischen buildingSMART Deutschland und der IDTA](https://www.buildingsmart.de/buildingsmart/aktuelles/buildingsmart-deutschland-und-idta-schliessen-kooperationsvereinbarung-auf "buildingSMART Deutschland und IDTA schließen Kooperationsvereinbarung | buildingSMART Deutschland"): _"Die Partnerschaft zielt darauf ab, Building Information Modeling (BIM) und die Asset Administration Shell (AAS) als komplementäre Technologien zusammenzuführen und damit die Grundlage für durchgängig digitale Prozesse in der Bau- und Immobilienwirtschaft zu legen."_)
+
+- Realisiert wohl mit der [Open-Source-Software BaSyx](https://basyx.org/ "Eclipse BaSyx™ | basyx.org") ([MIT-Lizenz](https://haerting.de/wissen/software-unter-mit-lizenz-rechtssicher-verwenden/ "Software unter MIT Lizenz rechtssicher verwenden | HÄRTING Rechtsanwälte PartGmbB")) [für den DPP](https://dpp.basyx.org/ "BaSyx Digital Product Passport | dpp.basyx.org") mit optionalem [Data Spaces](https://dssc.eu/ "Data Spaces Support Centre | dssc.eu")-Anschluss
 
 [ ] ???
