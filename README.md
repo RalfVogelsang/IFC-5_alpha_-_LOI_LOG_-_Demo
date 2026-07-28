@@ -1,7 +1,6 @@
 <div align="right">
 
-<a href="README_(Deutsch_German).md"><img src="images\Federal_Republic_of_Germany_-_National_Flag.svg" alt="National Flag of the Federal Republic of Germany" height="20" style="border-radius: 3px;">
-[!['Bitte hier klicken für die originale ReadMe-Datei in deutscher Sprache](https://img.shields.io/badge/Bitte_hier_klicken_für_die_originale_ReadMe--Datei-in_deutscher_Sprache-brightgreen.svg "Bitte hier klicken für die originale ReadMe-Datei in deutscher Sprache")](README_(Deutsch_German).md)</a>
+<a href="README_(Deutsch_German).md"><img src="images\Federal_Republic_of_Germany_-_National_Flag.svg" alt="National Flag of the Federal Republic of Germany" height="20" style="border-radius: 3px;"> [!['Bitte hier klicken für die originale ReadMe-Datei in deutscher Sprache](https://img.shields.io/badge/Bitte_hier_klicken_für_die_originale_ReadMe--Datei-in_deutscher_Sprache-brightgreen.svg "Bitte hier klicken für die originale ReadMe-Datei in deutscher Sprache")](README_(Deutsch_German).md)</a>
 
 </div>
 
