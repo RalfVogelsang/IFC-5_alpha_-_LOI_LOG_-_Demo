@@ -1,7 +1,7 @@
 <div align="right">
 
-[!["Please klick here for the respective README file in English Language"](https://img.shields.io/badge/Please_klick_here_for_the_respective_README_file-in_English_language-red.svg "Please klick here for the respective README file in English Language")](README.md)
-<a href="README.md"><img src="images/United_States_of_America_-_National_Flag.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;"></a>
+<a href="README.md"><img src="images/United_States_of_America_-_National_Flag.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;">
+[!["Please klick here for the respective README file in English Language"](https://img.shields.io/badge/Please_klick_here_for_the_respective_README_file-in_English_language-red.svg "Please klick here for the respective README file in English Language")](README.md) </a>
 
 </div>
 
