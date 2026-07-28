@@ -1,16 +1,21 @@
-<div align="right">
+<table border="0" align="right">
+  <tr>
+    <td>   
+      <a href="README_(Deutsch_German).md"><img src="images\Federal_Republic_of_Germany_-_National_Flag.svg" alt="National Flag of the Federal Republic of Germany" height="20" style="border-radius: 3px;"></a>
+      <a href="README_(Deutsch_German).md"><img src="images/Bitte_hier_klicken.svg" alt="Bitte hier klicken für die originale ReadMe-Datei in deutscher Sprache"></a>
+    </td>
+  </tr>
+</table>
 
-<a href="README_(Deutsch_German).md"><img src="images\Federal_Republic_of_Germany_-_National_Flag.svg" alt="National Flag of the Federal Republic of Germany" height="20" style="border-radius: 3px;"></a> <a href="README_(Deutsch_German).md"><img src="images/Bitte_hier_klicken.svg" alt="Bitte hier klicken für die originale ReadMe-Datei in deutscher Sprache"></a>
-
+<div>
+    <br>
+    <br>
 </div>
-
-<br>
 
 # IFC 5/ [IFC X](https://www.buildingsmart.de/buildingsmart/aktuelles/ifc-roadmap-nach-porto-version-44-kommt-ifc-5-wird-zu-ifc-x "IFC 5 rebranded as IFC X: Redevelopment using web-based technologies (in German only) | buildingSMART Germany") (alpha) - [DIN EN ISO 7817-1](https://www.dinmedia.de/en/standard/din-en-iso-7817-1/382382712 "DIN EN ISO 7817-1:2024-11 Building Information Modelling - Level of Information Need - Part 1: Concepts and principles (ISO 7817-1:2024) | DIN Media") - Demo
 ## (Concept "Adaptive BIM Asset" in its most basic form)
 
 <div>
-    <br>
     <br>
     <br>
 </div>

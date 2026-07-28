@@ -1,9 +1,15 @@
-<div align="right">
+<table border="0" align="right">
+  <tr>
+    <td>   
+      <a href="README.md"><img src="images/United_States_of_America_-_National_Flag.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;"> </a>
+      <a href="README.md"><img src="images/Please_klick_here.svg" alt="Please klick here for the respective README file in English Language"></a>      
+  </tr>
+</table>
 
-<a href="README.md"><img src="images/United_States_of_America_-_National_Flag.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;"> </a> <a href="README.md"><img src="images/Please_klick_here.svg" alt="Please klick here for the respective README file in English Language"></a>
+<div>
+    <br>
+    <br>
 </div>
-
-<br>
 
 # IFC 5/ [IFC X](https://www.buildingsmart.de/buildingsmart/aktuelles/ifc-roadmap-nach-porto-version-44-kommt-ifc-5-wird-zu-ifc-x "Aus IFC 5 wird IFC X: Neuentwicklung mit webbasierten Technologien | buildingSMART Deutschland") (alpha) - [DIN EN ISO 7817-1](https://www.dinmedia.de/de/norm/din-en-iso-7817-1/382382712 "DIN EN ISO 7817-1:2024-11 Bauwerksinformationsmodellierung - Informationsbedarfstiefe - Teil 1: Konzepte und Grundsätze (ISO 7817-1:2024) | DIN Media") - Demo
 ## (Konzept "Adaptive BIM Asset" in grundlegendster Form)
