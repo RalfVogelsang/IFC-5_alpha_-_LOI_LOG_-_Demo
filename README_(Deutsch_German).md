@@ -1,11 +1,11 @@
-<table border="0px solid white" align="right">
+<table border="2px solid white" align="right">
   <tr>
     <td>   
       <a href="README.md"><img src="images/Please_klick_here.svg" alt="Please klick here for the respective README file in English Language"></a>
     </td>
     <td>
-      <a href="README.md"><img src="images/United_States_of_America_-_National_Flag.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;"> </a>
-    <td>     
+      <a href="README.md"><img src="images/United_States_of_America_-_National_Flag.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;"></a>
+    </td>     
   </tr>
 </table>
 
