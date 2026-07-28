@@ -1,7 +1,9 @@
-<table border="0" align="right">
+<table border="0px solid white" align="right">
   <tr>
     <td>   
       <a href="README.md"><img src="images/United_States_of_America_-_National_Flag.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;"> </a>
+    </td>
+    <td>
       <a href="README.md"><img src="images/Please_klick_here.svg" alt="Please klick here for the respective README file in English Language"></a>      
   </tr>
 </table>

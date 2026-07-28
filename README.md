@@ -1,7 +1,9 @@
-<table border="0" align="right">
+<table border="0px solid white" align="right">
   <tr>
     <td>   
       <a href="README_(Deutsch_German).md"><img src="images\Federal_Republic_of_Germany_-_National_Flag.svg" alt="National Flag of the Federal Republic of Germany" height="20" style="border-radius: 3px;"></a>
+    </td>
+    <td>
       <a href="README_(Deutsch_German).md"><img src="images/Bitte_hier_klicken.svg" alt="Bitte hier klicken für die originale ReadMe-Datei in deutscher Sprache"></a>
     </td>
   </tr>
