@@ -1,7 +1,7 @@
 <div align="right">
 
 [!["Please klick here for the respective README file in English Language"](https://img.shields.io/badge/Please_klick_here_for_the_respective_README_file-in_English_language-red.svg "Please klick here for the respective README file in English Language")](README.md)
-<a href="README.md"><img src="images\United_States_of_America_-_National_Flag_minified.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;"></a>
+<a href="README.md"><img src="images/United_States_of_America_-_National_Flag.svg" alt="National Flag of the United States of America" height="20" style="border-radius: 3px;"></a>
 
 </div>
 
@@ -47,7 +47,7 @@ Durch den modularen Aufbau gemäß ["Entity Component System" (ECS) - Konzept](h
 
 Der bedeutende Software-Engineering-Grundatz "[Separation of Concerns](https://en.wikipedia.org/wiki/Separation_of_concerns "Separation of Concerns | Wikipedia (en)")" ("Trennung der Belange") wird sogar explizit im [Konferenz-Beitrag](https://www.conftool.org/ec3-2026/index.php?page=browseSessions&form_session=163#paperID340 "2026 European Conference on Computing in Construction") "[Proposal for a modern Foundation for a data-driven Built Environment](https://www.researchgate.net/publication/408634536_PROPOSAL_FOR_A_MODERN_FOUNDATION_FOR_A_DATA-DRIVEN_BUILT_ENVIRONMENT "Proposal for a modern Foundation for a data-driven Built Environment | ResearchGate")" von Léon van Berlo et al. über IFC 5/ IFC X erwähnt, wenn auch dort wohl primär im Hinblick auf die [Unterteilung in Core- und Domain-spezifische Modul(e)](https://www.buildingsmart.org/ifc-x-core-modularisation-final-project-plan-voting/ "IFC X Core & Modularisation Final Project Plan voting | buildingSMART International").
 
-Dieser Grundsatz war durch die bisherigen, monolithischen Dateiformate (sei es bei ["ClosedBIM" mit proprietären Dateiformaten, sei es bei "OpenBIM"](https://www.baunetzwissen.de/integrales-planen/fachwissen/grundlagen/open-und-closed-bim-5286041 "OpenBIM und ClosedBIM im Vergleich | baunetzwissen.de") mit [*.ifc, *. ifcXML, ...](https://technical.buildingsmart.org/standards/ifc/ifc-formats/ "IFC Formats | buildingSMART International")) nur nicht so offensichtlich und könnte (oder gar sollte?) nun auch explizit praktiziert werden: Es gibt eine Reihe von Anwendungsfälle, die keine Geometrie erfordern, wie z. B. im Facility Management: "[Geometry is optional in IFC. For many usecases, geometry is not required, such as in facility management](https://docs.ifcopenshell.org/ifcopenshell-python/geometry_creation.html "Geometry creation | IfcOpenShell documentation")".
+Dieser Grundsatz war durch die bisherigen, monolithischen Dateiformate (sei es bei ["ClosedBIM" mit proprietären Dateiformaten, sei es bei "OpenBIM"](https://www.baunetzwissen.de/integrales-planen/fachwissen/grundlagen/open-und-closed-bim-5286041 "OpenBIM und ClosedBIM im Vergleich | baunetzwissen.de") mit [*.ifc, *. ifcXML, ...](https://technical.buildingsmart.org/standards/ifc/ifc-formats/ "IFC Formats | buildingSMART International")) nur nicht so offensichtlich und könnte (oder gar sollte?) nun auch explizit praktiziert werden: Es gibt eine Reihe von Anwendungsfällen, die keine Geometrie erfordern, wie z. B. im Facility Management: "[Geometry is optional in IFC. For many usecases, geometry is not required, such as in facility management](https://docs.ifcopenshell.org/ifcopenshell-python/geometry_creation.html "Geometry creation | IfcOpenShell documentation")".
 
 Es gibt auch darüber hinausgehende Wünsche (siehe z. B. [LinkedIn-Post "80% of your property data does not belong in your authoring tool"](https://www.linkedin.com/posts/tzwielehner_80-of-your-property-data-does-not-belong-share-7462764808355049473-DEEd/ "LinkedIn-Post: '80% of your property data does not belong in your authoring tool'") bzw. [openBIMvoice](https://www.youtube.com/playlist?list=PLUIgjxgKOw-qlqVxSoU0kduJ5ghaqygJb "Podcast 'openBIMvoice - How we build our world with open standards' | YouTube") Episode 05 auf YouTube ["IFC Properties Don't Belong in Revit"](https://www.youtube.com/watch?v=JuoT2WP8Jbs "IFC Properties Don't Belong in Revit | YouTube") - insbesondere ["Separating Geometry from Data"](https://www.youtube.com/watch?v=JuoT2WP8Jbs&t=1328s "Passage: Separating Geometry from Data | YouTube") von bzw. mit [Thomas Zwielehner](https://www.linkedin.com/in/tzwielehner/ "LinkeIn-Profil von Thomas Zwielehner")). So könnten z. B. auch vertrauliche Preis- oder sonstige Informationen separat erstellt und gehändelt werden.
 
@@ -65,7 +65,7 @@ In **Grafik 1** ist die Betriebsphase/ das Facility Management explizit enthalte
 
 <br>
 
-!["Projektstufen Phase Null und Phase Zehn sind Basis und Potenzial eines Projekts | Bundesstiftung Baukultur"](https://www.bundesstiftung-baukultur.de/fileadmin/files/content/csm_104_6.3J_Projektstufen_Phase_Null_und_Phase_Zehn_sind_Basis_und_Potenzial_eines_Projekts_9f94954fae.jpg "Projektstufen Phase Null und Phase Zehn sind Basis und Potenzial eines Projekts | Bundesstiftung Baukultur")
+!["Projektstufen Phase Null und Phase Zehn sind Basis und Potenzial eines Projekts | Bundesstiftung Baukultur"](https://www.bundesstiftung-baukultur.de/fileadmin/files/content/csm_104_6.3J_Projektstufen_Phase_Null_und_Phase_Zehn_sind_Basis_und_Potenzial_eines_Projekts_9f94954fae.jpg "Projektstufen Phase Null und Phase Zehn sind Basis und Potenzial eines Projekts | Bundesstiftung Baukultur") <br>
 **Grafik 3**: _Projektstufen Phase Null und Phase Zehn sind Basis und Potenzial eines Projekts_
 (© 2023 [Bundesstiftung Baukultur](https://www.bundesstiftung-baukultur.de/ "Bundesstiftung Baukultur | bundesstiftung-baukultur.de"), Design: [Heimann + Schwantes](https://www.heimannundschwantes.de/ "Heimann + Schwantes | heimannundschwantes.de"); Quelle: ["gut gemacht! Handbuch zur Bedeutung der Phase Null" der Bundesstiftung Baukultur](https://www.bundesstiftung-baukultur.de/publikationen/handbuecher/handbuch-zur-bedeutung-der-phase-null-fuer-gelingende-projekte "gut gemacht! Handbuch zur Bedeutung der Phase Null | Bundesstiftung Baukultur"))
 
@@ -258,7 +258,7 @@ Da mir als Monteur in der Praxis noch keine Wand aus Mauerwerk mit Türöffnung 
 [ ] Erleichterung der realen Implementierung per API (Work in Progress)
 (Falls nicht nur JSON-Schemata in *.ifcx-Dateien importiert werden können; bislang scheint der Import bei mir noch nicht zu funktionieren)
 
-![Grafik 16: Screenshot APIs](images\Screenshot-Docs-FastAPI.png "Grafik 16: Screenshot APIs")  
+![Grafik 16: Screenshot APIs](images/Screenshot_Docs_FastAPI.png "Grafik 16: Screenshot APIs")  
 **Grafik 17**: _Screenshot "Potentielle API-Implementierung"_
 
 <br>
